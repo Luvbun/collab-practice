@@ -1,0 +1,21 @@
+*{
+    
+}
+body{
+    background-image: linear-gradient(Green, Black);
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+figure{
+    background-image: url(../Photos/Baby.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 25%;
+    height: 25%;
+}
