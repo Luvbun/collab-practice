@@ -19,3 +19,7 @@ figure{
     width: 25%;
     height: 25%;
 }
+.container-fluid{
+    border-color: white;
+    border-width: 1px;
+}
