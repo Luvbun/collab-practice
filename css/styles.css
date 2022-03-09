@@ -1,10 +1,7 @@
-*{
-    
-}
 body{
     background-image: linear-gradient(Green, Black);
     width: 100vw;
-    height: 100vh;
+    height: 150vh;
 }
 h1{
     color: white;
@@ -18,4 +15,8 @@ figure{
     background-size: contain;
     width: 25%;
     height: 25%;
+}
+.container-fluid{
+    border-color: white;
+    border-width: 1px;
 }
